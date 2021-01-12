@@ -1,0 +1,11 @@
+.banner-titulo{
+	font-family: Pacifico,cursive;
+	font-size: 2rem;
+	position: absolute;
+	right:3px;
+	color: #fdfdfd;
+	text-shadow:  0 4px 4px rgba(00,0,0,0.75);
+	top:8%;
+	text-align: right;
+	transform: translate(-50% , -50%);
+}

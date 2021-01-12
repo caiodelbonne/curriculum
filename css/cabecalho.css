@@ -1,0 +1,10 @@
+.cabecalho {
+	align-items: center;
+	background-image: linear-gradient(yellow,gold,lightblue,steelblue);
+	display: flex;
+	justify-content: space-between;  	
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+	
+}
